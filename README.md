@@ -4,7 +4,7 @@
 - 🌱 Também estou estudando arquitetura DevOps com AWS e Front-end com Angular e React
 - 💬 Sou entusiasta no desenvolvimento Android Nativo com Java e Kotlin
 - 😄 Pronouns: Ele/Dele
-- <a href="http://portifolio-estatico-well-alm.s3-website-us-east-1.amazonaws.com/" target="_blank"><img src="https://img.shields.io/badge/-Veja%20Meu%20Portfolio-%23000000?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
+- <a href="https://wellalmeida.online" target="_blank"><img src="https://img.shields.io/badge/-Veja%20Meu%20Portfolio-%23000000?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
 
 <div align="left">
   <a href="https://github.com/WellAlmeida31">
