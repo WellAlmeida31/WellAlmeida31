@@ -1,6 +1,7 @@
 ### Olá sou Wellington Almeida, seja bem vindo(a)! 👋
 
 - 🔭 Eu sou desenvolvedor Back-end e atualmente trabalho com Java
+- 🧑🏻‍💻 Especialista em Quarkus
 - 🌱 Também estou estudando arquitetura DevOps com AWS e Front-end com Angular e React
 - 💬 Sou entusiasta no desenvolvimento Android Nativo com Java e Kotlin
 - 😄 Pronouns: Ele/Dele
